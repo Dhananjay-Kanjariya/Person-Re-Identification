@@ -60,9 +60,6 @@ This project implements a lightweight person re-identification (ReID) system usi
 - Shrey Salvi
 - Purvansh Desai
 
-## License
-This project is licensed under the MIT License.
-
 ## Acknowledgments
 - Kaggle for providing the Person ReID dataset.
 - Ahmedabad University for academic support.
